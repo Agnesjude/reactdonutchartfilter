@@ -1,0 +1,34 @@
+[
+    {
+      "label": "close",
+      "value": 10
+    },
+    {
+        "label": "new",
+        "value": 10
+    },
+    {
+        "label": "open",
+        "value": 10
+    },
+      {
+          "label": "in review",
+          "value": 10
+      },
+      {
+        "label": "in dev",
+        "value": 10
+      },
+      {
+          "label": "fix",
+          "value": 10
+      },
+      {
+        "label": "in qa",
+        "value": 25
+      },
+      {
+          "label": "reopen",
+          "value": 50
+      }
+  ]

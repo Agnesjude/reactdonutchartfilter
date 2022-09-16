@@ -1,0 +1,43 @@
+[
+    {
+      "case_status": "close",
+      "case_id": 1
+    },
+    {
+        "case_status": "new",
+        "case_id": 2
+    },
+    {
+        "case_status": "open",
+        "case_id": 3
+    },
+    {
+        "case_status": "in review",
+        "case_id": 1
+      },
+      {
+          "case_status": "in dev",
+          "case_id": 2
+      },
+      {
+        "case_status": "in dev",
+        "case_id": 1
+      },
+      {
+          "case_status": "fix",
+          "case_id": 2
+      },
+      {
+        "case_status": "fix",
+        "case_id": 1
+      },
+      {
+        "case_status": "reopen",
+        "case_id": 1
+      },
+      {
+          "case_status": "in qa",
+          "case_id": 2
+      }
+    
+  ]
